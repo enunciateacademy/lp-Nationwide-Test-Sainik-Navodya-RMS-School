@@ -1,0 +1,6 @@
+{
+  "name": "Enunciate Academy - Partner Portal",
+  "description": "Pan-India Digital Academic & Examination Infrastructure for Tuition Centres | Sainik School All India Test Series 2027",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
